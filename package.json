@@ -1,0 +1,12 @@
+{
+  "name": "project-9",
+  "version": "1.0.0",
+  "description": "hotel mamagment portal",
+  "license": "ISC",
+  "author": "shaily",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
